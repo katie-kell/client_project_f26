@@ -174,3 +174,17 @@ header > .header-photo {
 main a {
     overflow-wrap: anywhere;
 }
+
+
+
+   main img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+main,
+main section,
+main aside {
+    min-width: 0;
+}
